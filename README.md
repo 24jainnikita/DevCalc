@@ -31,9 +31,19 @@ DevCalc is a clean and minimal calculator designed with a Pinterest-inspired the
 - JavaScript (ES6)
 
 ---
+## 🚀 Usage
+1. Clone this repository  
+   `git clone https://github.com/24jainnikita/DevCalc.git`
 
-## 🧪 How to Run Locally
+2. Open the project folder in VS Code
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/24jainnikita/DevCalc.git
+3. Run the project:
+   - If using VS Code, right-click on `index.html` and choose “Open with Live Server”
+   - Or, open `index.html` directly in your browser
+
+---
+## Author
+**Nikita Jain**  
+📎 [GitHub](https://github.com/24jainnikita)  
+🔗 [LinkedIn](https://www.linkedin.com/in/24jainnikita)
+
